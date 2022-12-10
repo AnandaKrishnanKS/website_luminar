@@ -136,7 +136,6 @@
 
     .imginpart2 {
         width: 100%;
-        padding-top: 30%;
     }
 
     .hed2 {
@@ -235,6 +234,19 @@
 
         margin-left: 28%;
 
+    }
+
+}
+
+@media (max-width:380px) {
+
+    .corh1a,
+    .corh1b {
+        margin-left: 0%;
+    }
+
+    .corp1 {
+        margin-left: 0%;
     }
 
 }
